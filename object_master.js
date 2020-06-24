@@ -52,5 +52,5 @@ const pokémon = Object.freeze([
     // console.log(pokeFly2)
 
     // a count of "normal" type pokemon
-    const normPoke = pokémon.filter( p => p.types.includes("normal")).length
-    console.log(normPoke)
+    // const normPoke = pokémon.filter( p => p.types.includes("normal")).length
+    // console.log(normPoke)
